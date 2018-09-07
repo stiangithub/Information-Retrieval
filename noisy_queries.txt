@@ -1,0 +1,10 @@
+what aritcles exist which deal with tss time sharing sytsem an operating system for ibm computers 
+i am interested in raitcles wirttne either by prieve or udo pooch prieve b pooch u 
+inertmedaite languages used in construction of mutil targeted compilers ltloc 
+i m interested in mechanisms for communicating between disjoint processes ylibsspo but not exclusively in a distributed environment i would rather see eiscpirodsnt of complete mechanisms with or without implementations as opposed to theoretical work on the abstract problem remote procedure calls and message passing rae examples of my interests 
+i d lkie papers on deisgn and tpiimnmalnotee of editing interfaces nwwiod managers command tseirterpenr tec the essential issues are human interface design with views on improvements to user efficiency effectiveness adn tatcssonaifi 
+interested ni articles on robotics motion planning praticualrly the egometirc and combinatorial aspects we are not interested in the dynamics of arm motion 
+i am interested in distributed algorithms concurrent programs in which processes communicate and synchronize by using message passing areas of particular interest lncdeiu fault tolerance and techniques for understanding the correctness of these algorithms 
+addressing schemes for resources in networks resource adedrssing in network eriaptgon systems 
+security considerations in locla networks network operating seysmst and distributed systems 
+praallle languages languages for parallel computation 

@@ -1,0 +1,10 @@
+what articles exist which deal with tass time sharing system an operating system for ibm computers 
+i am interested in articles written either by prove or duo pooch prove b pooch u 
+intermediate languages used in construction of mu til targeted compilers tlaloc 
+i m interested in mechanisms for communicating between disjoint processes lisp but not exclusively in a distributed environment i would rather see of complete mechanisms with or without implementations as opposed to theoretical work on the abstract problem remote procedure calls and message passing rae examples of my interests 
+i d like papers on design and of editing interfaces wood managers command steepen etc the essential issues are human interface design with views on improvements to user efficiency effectiveness adan tucson 
+interested ni articles on robotics motion planning particularly the emetic and gubernatorial aspects we are not interested in the dynamics of arm motion 
+i am interested in distributed algorithms concurrent programs in which processes communicate and synchronize by using message passing areas of particular interest lanced fault tolerance and techniques for understanding the correctness of these algorithms 
+addressing schemes for resources in networks resource addressing in network eruption systems 
+security considerations in local networks network operating sesames and distributed systems 
+parallel languages languages for parallel computation 
